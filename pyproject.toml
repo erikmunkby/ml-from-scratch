@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ml-from-scratch"
+version = "0.1.0"
+description = "Notebooks for ML from scratch blog"
+authors = ["Erik Munkby <erik.munkby@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ml_from_scratch"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.23.4"
+pandas = "^1.5.0"
+notebook = "^6.5.1"
+plotly = "^5.10.0"
+imageio = "^2.22.2"
+kaleido = "0.2.1"
+scikit-learn = "^1.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
