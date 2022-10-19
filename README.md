@@ -2,7 +2,7 @@
 The code in this repository is written for the medium blog series Machine learning from scratch.
 
 ### Machine learning from scratch (part 1)
-<<TODO: Link to medium blog post>>
+[Link to blog post](https://erik-munkby.medium.com/machine-learning-from-scratch-c3c66e6eae)
 
 The first part is built using algorithms k-Nearest Neighbors (k-NN) and k-means. The blog post also discusses important machine learning topics to those algorithms.
 
